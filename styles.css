@@ -1,0 +1,72 @@
+body {
+    padding: 10px;
+    background-color: burlywood;
+}
+
+
+header {
+    padding: 5px;
+    margin-bottom: 20px;
+    background-color: brown;
+    text-align: end;
+}
+
+
+main {
+    
+    padding: 25px;
+    border: brown solid;
+}
+
+h1 {
+    color: brown;
+    font-family: Verdana;
+    
+}
+
+
+.a-nav {
+    margin: 10px;
+    display: inline-block;
+    font-size: x-large;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.a-nav:hover {
+    text-decoration: underline;
+    color: burlywood;
+}
+
+
+p {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+input{
+    display: block;
+    margin-bottom: 10px;
+}
+
+label{
+    display: block;
+    font-weight: bolder;
+    color: brown;
+}
+
+
+select {
+    margin-bottom: 10px;
+}
+
+textarea {
+    margin-bottom: 10px;
+}
+
+.submit.btn {
+    
+}
